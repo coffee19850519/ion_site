@@ -1,0 +1,6 @@
+ID	Position	Residue	scores	Cutoff=0.5
+>1A5T-A	1 D	0.022 N
+>1A5T-A	2 E	0.939 Y
+>1A5T-A	3 H	0.211 N
+>1A5T-A	4 H	0.086 N
+
